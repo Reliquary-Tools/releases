@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-23T15:04:21.3159289Z",
+    "generatedAt":  "2026-05-23T15:17:08.4608222Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -19,8 +19,8 @@
                                  "windows-x64":  {
                                                      "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.0/Obelisk_0.1.0_x64_en-US.msi",
                                                      "file":  "Obelisk_0.1.0_x64_en-US.msi",
-                                                     "sha256":  "89aeaad70dfa15de98b04c4c503b079b43760093b5f478b18263e54f5e218090",
-                                                     "size":  3014656
+                                                     "sha256":  "9ad57c2037ef950c73b0ffe5ffbd9b4c7f509264b6bd9dc1f68d55d562f56f2b",
+                                                     "size":  3018752
                                                  }
                              },
                  "daedalus":  {
