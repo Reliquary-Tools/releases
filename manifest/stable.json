@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-23T15:17:08.4608222Z",
+    "generatedAt":  "2026-05-23T15:19:44.8928747Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -13,14 +13,14 @@
     "apps":  {
                  "obelisk":  {
                                  "name":  "Obelisk",
-                                 "latest":  "0.1.0",
+                                 "latest":  "0.1.1",
                                  "description":  "RELIQUARY command center, updater and license hub.",
-                                 "releaseTag":  "obelisk-v0.1.0",
+                                 "releaseTag":  "obelisk-v0.1.1",
                                  "windows-x64":  {
-                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.0/Obelisk_0.1.0_x64_en-US.msi",
-                                                     "file":  "Obelisk_0.1.0_x64_en-US.msi",
-                                                     "sha256":  "9ad57c2037ef950c73b0ffe5ffbd9b4c7f509264b6bd9dc1f68d55d562f56f2b",
-                                                     "size":  3018752
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.1/Obelisk_0.1.1_x64_en-US.msi",
+                                                     "file":  "Obelisk_0.1.1_x64_en-US.msi",
+                                                     "sha256":  "f92724ed1c922b6787f04877d67cc7db3c31569728a10ef78a99f98477a10797",
+                                                     "size":  3014656
                                                  }
                              },
                  "daedalus":  {
