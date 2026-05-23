@@ -1,0 +1,60 @@
+{
+    "schema":  1,
+    "generatedAt":  "2026-05-23T15:04:21.3159289Z",
+    "channel":  "stable",
+    "source":  {
+                   "kind":  "github-releases",
+                   "owner":  "Reliquary-Tools",
+                   "repo":  "releases",
+                   "branch":  "main",
+                   "manifestUrl":  "https://raw.githubusercontent.com/Reliquary-Tools/releases/main/manifest/stable.json"
+               },
+    "baseUrl":  "https://github.com/Reliquary-Tools/releases/releases/download",
+    "apps":  {
+                 "obelisk":  {
+                                 "name":  "Obelisk",
+                                 "latest":  "0.1.0",
+                                 "description":  "RELIQUARY command center, updater and license hub.",
+                                 "releaseTag":  "obelisk-v0.1.0",
+                                 "windows-x64":  {
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.0/Obelisk_0.1.0_x64_en-US.msi",
+                                                     "file":  "Obelisk_0.1.0_x64_en-US.msi",
+                                                     "sha256":  "89aeaad70dfa15de98b04c4c503b079b43760093b5f478b18263e54f5e218090",
+                                                     "size":  3014656
+                                                 }
+                             },
+                 "daedalus":  {
+                                  "name":  "Daedalus",
+                                  "latest":  "0.1.0",
+                                  "description":  "Video, playlist and audio acquisition.",
+                                  "releaseTag":  "daedalus-v0.1.0",
+                                  "windows-x64":  {
+                                                      "url":  "https://github.com/Reliquary-Tools/releases/releases/download/daedalus-v0.1.0/Daedalus_0.1.0_x64_en-US.msi",
+                                                      "file":  "Daedalus_0.1.0_x64_en-US.msi",
+                                                      "sha256":  "f6f684af6392e98f69cc9b38a679a730b9133041968a302296b4b29fbb09473f",
+                                                      "size":  4460544
+                                                  }
+                              },
+                 "chronos":  {
+                                 "name":  "Chronos",
+                                 "latest":  "0.1.0",
+                                 "description":  "Frame timing normalization for video files.",
+                                 "releaseTag":  "chronos-v0.1.0",
+                                 "windows-x64":  {
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/chronos-v0.1.0/Chronos_0.1.0_x64_en-US.msi",
+                                                     "file":  "Chronos_0.1.0_x64_en-US.msi",
+                                                     "sha256":  "3563231cc799cd4293b3e2c42921f733bbbbc10c4e5b85ee0ce083961ef0069b",
+                                                     "size":  4444160
+                                                 }
+                             }
+             },
+    "toolchain":  {
+                      "strategy":  "providers",
+                      "sharedDir":  "RELIQUARY/toolchain/bin",
+                      "providers":  {
+                                        "ffmpeg":  "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
+                                        "ytDlp":  "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe",
+                                        "deno":  "https://github.com/denoland/deno/releases/latest/download/deno-x86_64-pc-windows-msvc.zip"
+                                    }
+                  }
+}
