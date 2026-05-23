@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-23T15:19:44.8928747Z",
+    "generatedAt":  "2026-05-23T20:00:04.2579083Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -13,14 +13,14 @@
     "apps":  {
                  "obelisk":  {
                                  "name":  "Obelisk",
-                                 "latest":  "0.1.1",
+                                 "latest":  "0.1.2",
                                  "description":  "RELIQUARY command center, updater and license hub.",
-                                 "releaseTag":  "obelisk-v0.1.1",
+                                 "releaseTag":  "obelisk-v0.1.2",
                                  "windows-x64":  {
-                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.1/Obelisk_0.1.1_x64_en-US.msi",
-                                                     "file":  "Obelisk_0.1.1_x64_en-US.msi",
-                                                     "sha256":  "f92724ed1c922b6787f04877d67cc7db3c31569728a10ef78a99f98477a10797",
-                                                     "size":  3014656
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.2/Obelisk_0.1.2_x64_en-US.msi",
+                                                     "file":  "Obelisk_0.1.2_x64_en-US.msi",
+                                                     "sha256":  "0c0a23daa8e52bfb3313bf8454d22de14ec58d4486db26647b114ea957c16b28",
+                                                     "size":  4939776
                                                  }
                              },
                  "daedalus":  {
@@ -31,7 +31,7 @@
                                   "windows-x64":  {
                                                       "url":  "https://github.com/Reliquary-Tools/releases/releases/download/daedalus-v0.1.0/Daedalus_0.1.0_x64_en-US.msi",
                                                       "file":  "Daedalus_0.1.0_x64_en-US.msi",
-                                                      "sha256":  "f6f684af6392e98f69cc9b38a679a730b9133041968a302296b4b29fbb09473f",
+                                                      "sha256":  "3cafd82517197fd08ed12d97b6f48a985e787ccad152706e4b4ead48671532d6",
                                                       "size":  4460544
                                                   }
                               },
@@ -43,7 +43,7 @@
                                  "windows-x64":  {
                                                      "url":  "https://github.com/Reliquary-Tools/releases/releases/download/chronos-v0.1.0/Chronos_0.1.0_x64_en-US.msi",
                                                      "file":  "Chronos_0.1.0_x64_en-US.msi",
-                                                     "sha256":  "3563231cc799cd4293b3e2c42921f733bbbbc10c4e5b85ee0ce083961ef0069b",
+                                                     "sha256":  "4acd8384f0efd0251e828a21a35c4c3a153a61180512ec601e20c42d08c6325f",
                                                      "size":  4444160
                                                  }
                              }
