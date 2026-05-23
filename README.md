@@ -1,7 +1,7 @@
 # Reliquary
 
 <p align="center">
-  <img src="assets/reliquary-logo.png" alt="Reliquary logo" width="160">
+  <img src="assets/reliquary_brand.png" alt="Reliquary logo" width="160">
 </p>
 
 **Reliquary** is a clean, lightweight suite of creative tools made for video editors, content creators, and post-production workflows.
