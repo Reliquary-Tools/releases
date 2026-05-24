@@ -80,11 +80,38 @@ This is especially useful for:
 
 ---
 
+### Mnemo
+
+**Local sample manager**
+
+Mnemo is a fast local sample browser and indexer.
+
+It is designed for navigating audio files stored on disk, with a focus on speed, clean indexing, preview, search, and organization.
+
+Mnemo is not intended to be a cloud library. It is a local-first tool for creators who already manage their own files.
+
+---
+
 ## Download
 
-Downloads will be available from the **Releases** section of this repository.
+Downloads are available from the **Releases** section of this repository.
 
-Each release may include installers or portable builds depending on platform support.
+However, it is **not recommended** to manually download individual Reliquary apps from the GitHub Releases page, except for **Obelisk**.
+
+Reliquary is designed to be centralized through **Obelisk**, which handles:
+
+- app downloads;
+- installation;
+- updates;
+- license activation;
+- access management.
+
+In normal use, you should only download and install **Obelisk** manually.  
+All other apps should be installed and managed directly from Obelisk.
+
+Individual app binaries may still appear in the Releases section for distribution and archival purposes, but they are not meant to be used as the primary installation method.
+
+Without Obelisk and an active Reliquary license, the apps cannot be launched or used.
 
 > Current release status: **early development**
 
@@ -94,13 +121,11 @@ Each release may include installers or portable builds depending on platform sup
 
 Reliquary is planned primarily for desktop use.
 
-Target platforms may include:
+Target platforms include:
 
-- Windows
-- macOS
-- Linux
-
-Actual availability: Windows
+- Windows (available)
+- macOS (in progress)
+- Linux (not started)
 
 ---
 
@@ -133,28 +158,6 @@ The goal is to feel clean and modern without losing the mythological and artifac
 
 ---
 
-## Project status
-
-Reliquary is currently in active development.
-
-The current app lineup is:
-
-- **Obelisk** — license and access manager
-- **Daedalus** — media downloader
-- **Talos** — remuxer
-- **Chronos** — VFR to CFR converter
-
-Planned priorities include:
-
-- stable app structure;
-- direct downloads and installation;
-- licensing system;
-- real app screenshots;
-- reliable media tooling;
-- clear user-facing workflows.
-
----
-
 ## Future ideas
 
 Other tools may be added later, but they are not part of the current release lineup.
@@ -166,8 +169,7 @@ Possible future directions include:
 - subtitle tooling;
 - audio normalization;
 - integrity checking;
-- transcoding;
-- local sample management.
+- transcoding.
 
 ---
 
@@ -184,7 +186,7 @@ When reporting a media-related issue, please include:
 - the file format involved;
 - logs or screenshots if available.
 
-Do not upload copyrighted media files unless you have the right to share them.
+> Do not upload copyrighted media files unless you have the right to share them.
 
 ---
 
