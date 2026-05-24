@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-24T10:19:05.9140968Z",
+    "generatedAt":  "2026-05-24T20:48:39.1453887Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -13,62 +13,62 @@
     "apps":  {
                  "obelisk":  {
                                  "name":  "Obelisk",
-                                 "latest":  "0.1.3",
+                                 "latest":  "0.1.4",
                                  "description":  "RELIQUARY command center, updater and license hub.",
-                                 "releaseTag":  "obelisk-v0.1.3",
+                                 "releaseTag":  "obelisk-v0.1.4",
                                  "windows-x64":  {
-                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.3/Obelisk_0.1.3_x64_en-US.msi",
-                                                     "file":  "Obelisk_0.1.3_x64_en-US.msi",
-                                                     "sha256":  "02b89e5a8f7ec553456aa4d8860b702a1cb61a23cd0ac418b2431469f43a4184",
-                                                     "size":  6344704
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/obelisk-v0.1.4/Obelisk_0.1.4_x64_en-US.msi",
+                                                     "file":  "Obelisk_0.1.4_x64_en-US.msi",
+                                                     "sha256":  "078c2e6307cdfb245ba6e82c5a90cd795ae06a6566c8302203494d02bb9cf89e",
+                                                     "size":  6348800
                                                  }
                              },
                  "daedalus":  {
                                   "name":  "Daedalus",
-                                  "latest":  "0.1.1",
+                                  "latest":  "0.1.2",
                                   "description":  "Video, playlist and audio acquisition.",
-                                  "releaseTag":  "daedalus-v0.1.1",
+                                  "releaseTag":  "daedalus-v0.1.2",
                                   "windows-x64":  {
-                                                      "url":  "https://github.com/Reliquary-Tools/releases/releases/download/daedalus-v0.1.1/Daedalus_0.1.1_x64_en-US.msi",
-                                                      "file":  "Daedalus_0.1.1_x64_en-US.msi",
-                                                      "sha256":  "49958bdee567e22cd31fedffcc9a3ac2e70ea6cd5ea868542ff7c5113c69cd3d",
-                                                      "size":  4456448
+                                                      "url":  "https://github.com/Reliquary-Tools/releases/releases/download/daedalus-v0.1.2/Daedalus_0.1.2_x64_en-US.msi",
+                                                      "file":  "Daedalus_0.1.2_x64_en-US.msi",
+                                                      "sha256":  "d6b06bb95b47a630d86e16ef6120bba282024f40f697ad030f23551fd1108302",
+                                                      "size":  4472832
                                                   }
                               },
                  "chronos":  {
                                  "name":  "Chronos",
-                                 "latest":  "0.1.1",
+                                 "latest":  "0.1.2",
                                  "description":  "Frame timing normalization for video files.",
-                                 "releaseTag":  "chronos-v0.1.1",
+                                 "releaseTag":  "chronos-v0.1.2",
                                  "windows-x64":  {
-                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/chronos-v0.1.1/Chronos_0.1.1_x64_en-US.msi",
-                                                     "file":  "Chronos_0.1.1_x64_en-US.msi",
-                                                     "sha256":  "c2f6af65ae327e9b26968259b1e8d9666857b4787c3cf5b0b34db76a7b89aaa6",
-                                                     "size":  4444160
+                                                     "url":  "https://github.com/Reliquary-Tools/releases/releases/download/chronos-v0.1.2/Chronos_0.1.2_x64_en-US.msi",
+                                                     "file":  "Chronos_0.1.2_x64_en-US.msi",
+                                                     "sha256":  "46090552ade37031d710150527bc9f84af17ef116b8357a24389cfb132b297f6",
+                                                     "size":  4460544
                                                  }
                              },
                  "talos":  {
                                "name":  "Talos",
-                               "latest":  "0.1.1",
+                               "latest":  "0.1.2",
                                "description":  "Container repair and compatibility remuxing without re-encoding.",
-                               "releaseTag":  "talos-v0.1.1",
+                               "releaseTag":  "talos-v0.1.2",
                                "windows-x64":  {
-                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/talos-v0.1.1/Talos_0.1.1_x64_en-US.msi",
-                                                   "file":  "Talos_0.1.1_x64_en-US.msi",
-                                                   "sha256":  "f710dacd6c407b6432baf5b52afbdc996d7b9c3424232e558709612a437638d0",
-                                                   "size":  4427776
+                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/talos-v0.1.2/Talos_0.1.2_x64_en-US.msi",
+                                                   "file":  "Talos_0.1.2_x64_en-US.msi",
+                                                   "sha256":  "21258245bb1f75780197cdaa85a3030045a00ece154f66630823cb64c48a71a2",
+                                                   "size":  4440064
                                                }
                            },
                  "mnemo":  {
                                "name":  "Mnemo",
-                               "latest":  "0.1.0",
+                               "latest":  "0.1.1",
                                "description":  "Local sample and SFX library for fast search, preview and tagging.",
-                               "releaseTag":  "mnemo-v0.1.0",
+                               "releaseTag":  "mnemo-v0.1.1",
                                "windows-x64":  {
-                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/mnemo-v0.1.0/Mnemo_0.1.0_x64_en-US.msi",
-                                                   "file":  "Mnemo_0.1.0_x64_en-US.msi",
-                                                   "sha256":  "b0990797e37065d119e1b5f89538f0a1807524d10829805644658c7656537b67",
-                                                   "size":  3207168
+                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/mnemo-v0.1.1/Mnemo_0.1.1_x64_en-US.msi",
+                                                   "file":  "Mnemo_0.1.1_x64_en-US.msi",
+                                                   "sha256":  "5e2dd7cf6ed6e19f9b7307711eab3038ca8fd96be98fc22999b587750b4cb5a6",
+                                                   "size":  3256320
                                                }
                            }
              },
