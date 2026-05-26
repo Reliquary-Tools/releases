@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-26T17:28:52.5638524Z",
+    "generatedAt":  "2026-05-26T17:33:06.2362680Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -69,6 +69,18 @@
                                                    "file":  "Mnemo_0.1.2_x64_en-US.msi",
                                                    "sha256":  "9835e0d48a6178b2c785e0e24b5097a4b084ffef893dbf96b8bfad267bb0ac11",
                                                    "size":  3297280
+                                               }
+                           },
+                 "mimir":  {
+                               "name":  "Mimir",
+                               "latest":  "0.1.0",
+                               "description":  "Media inspection, stream analysis and creator-friendly compatibility findings.",
+                               "releaseTag":  "mimir-v0.1.0",
+                               "windows-x64":  {
+                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/mimir-v0.1.0/Mimir_0.1.0_x64_en-US.msi",
+                                                   "file":  "Mimir_0.1.0_x64_en-US.msi",
+                                                   "sha256":  "8f8d8bbea9c15ea4cfaad6bb47bb1fd55e27699341fe35b9610f713b955fe24f",
+                                                   "size":  4476928
                                                }
                            }
              },
