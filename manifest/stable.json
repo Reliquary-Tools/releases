@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generatedAt":  "2026-05-25T17:06:47.1824205Z",
+    "generatedAt":  "2026-05-26T17:28:52.5638524Z",
     "channel":  "stable",
     "source":  {
                    "kind":  "github-releases",
@@ -65,10 +65,10 @@
                                "description":  "Local sample and SFX library for fast search, preview and tagging.",
                                "releaseTag":  "mnemo-v0.1.2",
                                "windows-x64":  {
-                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/mnemo-v0.1.2/Mnemo_0.1.1_x64_en-US.msi",
-                                                   "file":  "Mnemo_0.1.1_x64_en-US.msi",
-                                                   "sha256":  "b4862260250d9fef69ea1fb1d4564fdacd4285d16271c39c7e1cf246e8f78ff9",
-                                                   "size":  3293184
+                                                   "url":  "https://github.com/Reliquary-Tools/releases/releases/download/mnemo-v0.1.2/Mnemo_0.1.2_x64_en-US.msi",
+                                                   "file":  "Mnemo_0.1.2_x64_en-US.msi",
+                                                   "sha256":  "9835e0d48a6178b2c785e0e24b5097a4b084ffef893dbf96b8bfad267bb0ac11",
+                                                   "size":  3297280
                                                }
                            }
              },
